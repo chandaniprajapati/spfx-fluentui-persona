@@ -4,8 +4,7 @@
 
 Short summary on functionality and used technologies.
 
-[picture of the solution in action, if possible]
-
+![image](https://user-images.githubusercontent.com/52065929/121524986-7f12e200-ca15-11eb-887d-ff46883a51ed.png)
 ## Used SharePoint Framework Version
 
 ![version](https://img.shields.io/npm/v/@microsoft/sp-component-base/latest?color=green)
